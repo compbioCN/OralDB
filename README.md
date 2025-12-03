@@ -22,7 +22,7 @@ By consolidating previously fragmented transcriptomic resources into an accessib
 <p align="center">
   <img src="Graphical_abstract.png" alt="OralDB overview" width="80%">
 </p>
-
+---
 
 ## ⭐ Key Features
 
