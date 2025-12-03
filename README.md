@@ -20,7 +20,7 @@
 
 By consolidating previously fragmented transcriptomic resources into an accessible, well-structured, and analysis-ready platform, **OralDB provides a robust foundation for mechanistic investigation, biomarker discovery, and translational research in oral diseases.**
 <p align="center">
-  <img src="FigS1.png" alt="OralDB overview" width="80%">
+  <img src="Graphical abstract.png" alt="OralDB overview" width="80%">
 </p>
 ---
 
