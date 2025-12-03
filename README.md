@@ -19,7 +19,9 @@
 **OralDB** is the first high-quality, comprehensive transcriptomic database globally dedicated to oral diseases, filling a critical gap in the systematic integration and analysis of large-scale multi-omics data in this field. The platform integrates **73 curated datasets** spanning **20 disease types** and **four major omics modalities**—Microarray, RNA-seq, scRNA-seq, and spatial transcriptomics—collectively comprising **2,027 tissue-derived samples**. All datasets are processed through a **unified and rigorous pipeline**, including quality control, normalization, batch correction, clustering, and cell-type annotation, ensuring analytical consistency and reliable cross-study comparison.
 
 By consolidating previously fragmented transcriptomic resources into an accessible, well-structured, and analysis-ready platform, **OralDB provides a robust foundation for mechanistic investigation, biomarker discovery, and translational research in oral diseases.**
-
+<p align="center">
+  <img src="FigS1.png" alt="OralDB overview" width="80%">
+</p>
 ---
 
 ## ⭐ Key Features
