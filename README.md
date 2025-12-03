@@ -6,10 +6,11 @@
 ---
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [URL](#url)
-- [Contact](#contact)
+- [Introduction](#-introduction)
+- [Key Features](#-key-features)
+- [URL](#-url)
+- [Contact](#-contact)
+
 
 ---
 
