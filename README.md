@@ -59,7 +59,7 @@ https://compbio.top/oraldb/
 ---
 ## 📬 Contact
 
- **Hao Cui**  : **cc13293995152@163.com**
- **Taiwen Li**  : **litaiwen@scu.edu.cn**
+ - **Hao Cui**  : **cc13293995152@163.com**
+ - **Taiwen Li**  : **litaiwen@scu.edu.cn**
 
 ---
